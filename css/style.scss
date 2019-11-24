@@ -3,7 +3,7 @@
 @import 'normalize';
 
 @import url('https://fonts.googleapis.com/icon?family=Material+Icons');
-
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Inconsolata&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i&display=swap');
 .material-icons.md-18 { font-size: 18px; }
@@ -50,7 +50,7 @@ html {
 }
 
 body {
-  font-family: 'Rubik', 'Space Grotesk', sans-serif;
+  font-family: 'Source Code Pro', 'Incosolata', monospace;
   font-weight: 300;
   color: $text;
 }
@@ -178,7 +178,7 @@ h3, .h3 {
 }
 
 .mono {
-  font-family: 'Inconsolata', 'Space Mono', monospace;
+  font-family: 'Source Code Pro', 'Space Mono', monospace;
   font-weight: 400;
   font-size: 0.85rem;
 }
