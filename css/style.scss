@@ -50,7 +50,7 @@ html {
 }
 
 body {
-  font-family: 'Source Code Pro', 'Incosolata', monospace;
+  font-family: 'Incosolata', 'Source Code Pro', monospace;
   font-weight: 300;
   color: $text;
 }
@@ -178,7 +178,7 @@ h3, .h3 {
 }
 
 .mono {
-  font-family: 'Source Code Pro', 'Space Mono', monospace;
+  font-family: 'Incosolata', 'Source Code Pro', 'Space Mono', monospace;
   font-weight: 400;
   font-size: 0.85rem;
 }
